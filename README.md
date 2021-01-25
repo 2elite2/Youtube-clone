@@ -1,15 +1,16 @@
-Introduction
+## Introduction:
+
 This is a code repository for the Youtube_Clone .
 
 In this t we are going to build a YouTube Clone Application from Scratch using React. 
 
-Setup:
+## Setup:
 
 move a copy of .env.sample to .env and paste your API-key
 run npm i && npm start to start the development server
 Covered topics:
 
-project structure
+## project structure:
 destructuring
 state management (with hooks)
 passing props
