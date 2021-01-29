@@ -23,7 +23,7 @@ class App extends React.Component{
             params: {
                 part: "snippet",
                 maxResults: 5,
-                key: process.env.REACT_APP_API_KEY,
+                key: "AIzaSyAro262SoQfh6fq5V51icx72HZMEqLad8Y",
                 q: searchTerm,
             }
             });
